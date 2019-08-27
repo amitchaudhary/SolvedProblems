@@ -1,4 +1,5 @@
 ﻿using System;
+using SolvedProblems.ArraysAndStrings;
 
 namespace SolvedProblems
 {
@@ -6,7 +7,12 @@ namespace SolvedProblems
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //IsUniqueString.Run();
+            //IsAStringPermutationOfOtherString.Run();
+            //URLify.Run();
+            //PalindromePermutation.Run();
+            //OneAway.Run();
+            StringCompression.Run();
         }
     }
 }

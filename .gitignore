@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/SolvedProblems/v16
+/SolvedProblems/bin/Debug/netcoreapp3.0
+/SolvedProblems/obj/Debug/netcoreapp3.0/SolvedProblems.csproj.FileListAbsolute.txt
+/SolvedProblems/obj/Debug/netcoreapp3.0/SolvedProblems.pdb
+/SolvedProblems/obj/Debug/netcoreapp3.0/SolvedProblems.exe
+/SolvedProblems/obj/Debug/netcoreapp3.0/SolvedProblems.dll

@@ -6,7 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="LinkedLists\" />
+    <Compile Remove="LinkedLists\**" />
+    <EmbeddedResource Remove="LinkedLists\**" />
+    <None Remove="LinkedLists\**" />
   </ItemGroup>
 
 </Project>
